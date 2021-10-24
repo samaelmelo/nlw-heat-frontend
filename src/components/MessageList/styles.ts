@@ -40,7 +40,8 @@ export const messageListWrapper = styled.div`
         margin-top: 16px;
         display: flex;
         align-items: center;
-
+ /* otima sacada de criar bordas em avatar */
+ /* div -userImage dentro dela tem uma image */
         .userImage{
           padding: 2px;
           background: linear-gradient(100deg, #ff008e 0.48%, #ffcd1e 100%);

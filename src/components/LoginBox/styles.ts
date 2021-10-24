@@ -1,6 +1,8 @@
 import styled from 'styled-components'
 import IbannerGirl from "../../assets/banner-girl.png"
 
+
+
 export const LoginboxWrapper = styled.div`
 
   height: 100vh;
